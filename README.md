@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting to provide an argument label when calling a function that has multiple parameters.  The `bug.swift` file shows the error, and `bugSolution.swift` provides the correct usage.  This is a frequent issue for developers new to Swift.
